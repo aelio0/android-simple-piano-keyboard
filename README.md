@@ -1,2 +1,2 @@
 # android-simple-piano-keyboard
-Simple keyboard that emulates piano notes
+Simple project done to learn android development.
