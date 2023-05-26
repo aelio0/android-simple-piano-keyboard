@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.progettotpsit.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.progettotpsit.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Elio\\.gradle\\daemon\\7.5\\com.example.progettotpsit.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Elio\\.gradle\\daemon\\7.5\\com.example.progettotpsit.app-main-31:\\layout\\activity_main.xml"
+    }
+]
